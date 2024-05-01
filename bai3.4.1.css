@@ -7,6 +7,18 @@ body {
     line-height:1.5;
     text-align: justify;
 }
+ul {
+    a:link {
+  color: rgba(190, 103, 183, 0.689);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+    color: rgb(228, 228, 19);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+}
 h1 {
     color:rgb(19, 151, 151);
 }
